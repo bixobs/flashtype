@@ -143,13 +143,6 @@ FlashType tracks:
 - Redis caching
 - Docker deployment
 
-## 📸 Screenshots
-Add screenshots here after deployment.
-
-Example:
-```md
-![Dashboard](./screenshots/dashboard.png)
-```
 
 ## 🧠 What I Learned
 This project helped strengthen my understanding of:
@@ -163,9 +156,6 @@ This project helped strengthen my understanding of:
 - Error handling
 - Environment configuration
 - Git & GitHub workflows
-
-## 📄 License
-This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 Built by Bixo B S.
